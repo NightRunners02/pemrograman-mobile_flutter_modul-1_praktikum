@@ -1,4 +1,4 @@
-# flutter_test_2
+# flutter_modul_1_praktikum
 
 A new Flutter project.
 
