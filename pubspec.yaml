@@ -1,0 +1,41 @@
+name: flutter_test_2
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+environment:
+  sdk: ">=3.2.6 <4.0.0"
+
+dependencies:
+  cupertino_icons: ^1.0.2
+  
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  image_picker: ^0.8.7
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+  
+    - assets/coffee_cup.jpg
+    - assets/banner.jpg
+    - assets/orang1.jpeg
+    - assets/buy1get1.png
+    - assets/mocha_coffee.png
+    - assets/flat_white.png
+    - assets/onboard.png
+    - assets/orang2.png
+
+
+
+
+
+
+
+
+
